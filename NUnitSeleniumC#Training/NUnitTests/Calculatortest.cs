@@ -36,6 +36,7 @@ namespace NUnitSeleniumC_Training.NUnitTests
             //Assertion on NUNIT to compare expected results with actual 
 
             Assert.AreEqual(6, result);
+            Assert.AreEqual(6, result);
 
             Assert.AreEqual(14, result1);
         }
