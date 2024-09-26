@@ -1,0 +1,55 @@
+{
+  "uuid": "09bb3103-a4fb-4293-bc9c-451eaab0e8d8",
+  "historyId": "99ce9def8c4409fa556ba01c30f05304",
+  "testCaseId": "1796bdc6fa52807593908f0907c597d2",
+  "fullName": "NUnitSeleniumC#Training:NUnitSeleniumC_Training.NUnitTests.AllureNUnit.product()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOAMARMLQYCHH"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumC_Training.NUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "product"
+    },
+    {
+      "name": "testClass",
+      "value": "AllureNUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Sanity"
+    }
+  ],
+  "links": [],
+  "name": "product",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "af7d7b44-09a7-48bf-91db-faa81ac2a70f-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726488343367,
+  "stop": 1726488343368
+}

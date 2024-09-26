@@ -1,0 +1,52 @@
+{
+  "uuid": "ea8f2fb0-ec81-4249-b464-30a7a979ac71",
+  "historyId": "21b2ebe6ce16bdbcb9cd86d912bf97ab",
+  "testCaseId": "5738bad52449af8498f7889d98c0278e",
+  "fullName": "NUnitSeleniumC#Training:NUnitSeleniumC_Training.Tests.Test1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOAMARMLQYCHH"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumC_Training"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test1"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    }
+  ],
+  "links": [],
+  "name": "Test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test Passed",
+    "trace": "   at NUnitSeleniumC_Training.Tests.Test1() in C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\UnitTest1.cs:line 14\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726488270847,
+  "stop": 1726488270849
+}

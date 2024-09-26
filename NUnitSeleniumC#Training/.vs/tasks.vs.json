@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-NUnitSeleniumC#Training",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-NUnitSeleniumC#Training",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

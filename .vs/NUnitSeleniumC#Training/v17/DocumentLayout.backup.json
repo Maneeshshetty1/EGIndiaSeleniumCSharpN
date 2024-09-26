@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|c:\\users\\mashm\\source\\repos\\nunitseleniumc#training\\nunitseleniumc#training\\utilities\\testparamexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|solutionrelative:nunitseleniumc#training\\utilities\\testparamexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|c:\\users\\mashm\\source\\repos\\nunitseleniumc#training\\nunitseleniumc#training\\utilities\\loginwithinvalidcred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|solutionrelative:nunitseleniumc#training\\utilities\\loginwithinvalidcred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|c:\\users\\mashm\\source\\repos\\nunitseleniumc#training\\nunitseleniumc#training\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|solutionrelative:nunitseleniumc#training\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|c:\\users\\mashm\\source\\repos\\nunitseleniumc#training\\nunitseleniumc#training\\utilities\\loginvefwithcred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|solutionrelative:nunitseleniumc#training\\utilities\\loginvefwithcred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|c:\\users\\mashm\\source\\repos\\nunitseleniumc#training\\nunitseleniumc#training\\selenium\\bookingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|solutionrelative:nunitseleniumc#training\\selenium\\bookingplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|c:\\users\\mashm\\source\\repos\\nunitseleniumc#training\\nunitseleniumc#training\\utilities\\excelread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|solutionrelative:nunitseleniumc#training\\utilities\\excelread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|c:\\users\\mashm\\source\\repos\\nunitseleniumc#training\\nunitseleniumc#training\\nunittests\\onetimesetupandteardown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|solutionrelative:nunitseleniumc#training\\nunittests\\onetimesetupandteardown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|c:\\users\\mashm\\source\\repos\\nunitseleniumc#training\\nunitseleniumc#training\\nunittests\\newfolder\\parallel\\parallelexusingtestparms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|solutionrelative:nunitseleniumc#training\\nunittests\\newfolder\\parallel\\parallelexusingtestparms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|c:\\users\\mashm\\source\\repos\\nunitseleniumc#training\\nunitseleniumc#training\\nunittests\\newfolder\\parallel\\parallelex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|solutionrelative:nunitseleniumc#training\\nunittests\\newfolder\\parallel\\parallelex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|c:\\users\\mashm\\source\\repos\\nunitseleniumc#training\\nunitseleniumc#training\\utilities\\testparusingtestcasesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CCFA68-156F-447C-A64F-C4F41567A6F2}|NUnitSeleniumC#Training\\NUnitSeleniumC#Training.csproj|solutionrelative:nunitseleniumc#training\\utilities\\testparusingtestcasesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mashm\\.nuget\\packages\\epplus\\7.3.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 197,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParallelEX.cs",
+              "DocumentMoniker": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\NUnitTests\\NewFolder\\Parallel\\ParallelEX.cs",
+              "RelativeDocumentMoniker": "NUnitSeleniumC#Training\\NUnitTests\\NewFolder\\Parallel\\ParallelEX.cs",
+              "ToolTip": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\NUnitTests\\NewFolder\\Parallel\\ParallelEX.cs",
+              "RelativeToolTip": "NUnitSeleniumC#Training\\NUnitTests\\NewFolder\\Parallel\\ParallelEX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:23:51.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestParamExcel.cs",
+              "DocumentMoniker": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Utilities\\TestParamExcel.cs",
+              "RelativeDocumentMoniker": "NUnitSeleniumC#Training\\Utilities\\TestParamExcel.cs",
+              "ToolTip": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Utilities\\TestParamExcel.cs",
+              "RelativeToolTip": "NUnitSeleniumC#Training\\Utilities\\TestParamExcel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:53:15.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OneTimeSetUpandTearDown.cs",
+              "DocumentMoniker": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\NUnitTests\\OneTimeSetUpandTearDown.cs",
+              "RelativeDocumentMoniker": "NUnitSeleniumC#Training\\NUnitTests\\OneTimeSetUpandTearDown.cs",
+              "ToolTip": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\NUnitTests\\OneTimeSetUpandTearDown.cs",
+              "RelativeToolTip": "NUnitSeleniumC#Training\\NUnitTests\\OneTimeSetUpandTearDown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:41:47.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingPlace.cs",
+              "DocumentMoniker": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Selenium\\BookingPlace.cs",
+              "RelativeDocumentMoniker": "NUnitSeleniumC#Training\\Selenium\\BookingPlace.cs",
+              "ToolTip": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Selenium\\BookingPlace.cs",
+              "RelativeToolTip": "NUnitSeleniumC#Training\\Selenium\\BookingPlace.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:42:29.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParallelExUsingTestParms.cs",
+              "DocumentMoniker": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\NUnitTests\\NewFolder\\Parallel\\ParallelExUsingTestParms.cs",
+              "RelativeDocumentMoniker": "NUnitSeleniumC#Training\\NUnitTests\\NewFolder\\Parallel\\ParallelExUsingTestParms.cs",
+              "ToolTip": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\NUnitTests\\NewFolder\\Parallel\\ParallelExUsingTestParms.cs",
+              "RelativeToolTip": "NUnitSeleniumC#Training\\NUnitTests\\NewFolder\\Parallel\\ParallelExUsingTestParms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:38:39.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExcelRead.cs",
+              "DocumentMoniker": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Utilities\\ExcelRead.cs",
+              "RelativeDocumentMoniker": "NUnitSeleniumC#Training\\Utilities\\ExcelRead.cs",
+              "ToolTip": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Utilities\\ExcelRead.cs",
+              "RelativeToolTip": "NUnitSeleniumC#Training\\Utilities\\ExcelRead.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:55:57.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\mashm\\.nuget\\packages\\epplus\\7.3.2\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\7.3.2\\readme.txt",
+              "ToolTip": "C:\\Users\\mashm\\.nuget\\packages\\epplus\\7.3.2\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\7.3.2\\readme.txt",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-21T06:44:46.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestParUsingTestcaseSource.cs",
+              "DocumentMoniker": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Utilities\\TestParUsingTestcaseSource.cs",
+              "RelativeDocumentMoniker": "NUnitSeleniumC#Training\\Utilities\\TestParUsingTestcaseSource.cs",
+              "ToolTip": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Utilities\\TestParUsingTestcaseSource.cs",
+              "RelativeToolTip": "NUnitSeleniumC#Training\\Utilities\\TestParUsingTestcaseSource.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:29:02.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWithInvalidCred.cs",
+              "DocumentMoniker": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Utilities\\LoginWithInvalidCred.cs",
+              "RelativeDocumentMoniker": "NUnitSeleniumC#Training\\Utilities\\LoginWithInvalidCred.cs",
+              "ToolTip": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Utilities\\LoginWithInvalidCred.cs",
+              "RelativeToolTip": "NUnitSeleniumC#Training\\Utilities\\LoginWithInvalidCred.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:25:05.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Utilities\\Base.cs",
+              "RelativeDocumentMoniker": "NUnitSeleniumC#Training\\Utilities\\Base.cs",
+              "ToolTip": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Utilities\\Base.cs",
+              "RelativeToolTip": "NUnitSeleniumC#Training\\Utilities\\Base.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:10:50.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginVefWithCred.cs",
+              "DocumentMoniker": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Utilities\\LoginVefWithCred.cs",
+              "RelativeDocumentMoniker": "NUnitSeleniumC#Training\\Utilities\\LoginVefWithCred.cs",
+              "ToolTip": "C:\\Users\\mashm\\source\\repos\\NUnitSeleniumC#Training\\NUnitSeleniumC#Training\\Utilities\\LoginVefWithCred.cs",
+              "RelativeToolTip": "NUnitSeleniumC#Training\\Utilities\\LoginVefWithCred.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:12:14.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "2866007e-1a8f-4002-80c6-99f01b8dcc5c",
+  "name": "NUnitSeleniumC_Training.NUnitTests.AllureNUnit",
+  "children": [
+    "0399bfdc-2a56-4920-a276-e147c87e6109",
+    "dfa5a81a-f6ee-4cbd-bde1-9cdf2ab27a0f",
+    "fab5c32a-d0dc-48b7-baea-c534dd32d256"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726486895949,
+  "stop": 1726486896027
+}
